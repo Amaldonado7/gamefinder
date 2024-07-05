@@ -37,6 +37,8 @@ Login
 ![image](https://user-images.githubusercontent.com/115493411/199963516-21b74955-66ae-4af5-87c6-04f34cdef664.png)
 
 Home
+<img width="1445" alt="image" src="https://github.com/Amaldonado7/gamefinder/assets/36973958/82e36a4c-ae13-4dd6-9da9-8c9819e3a1ba">
+
 
 ### Cómo ejecutar la App
 
