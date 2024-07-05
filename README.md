@@ -18,8 +18,6 @@ GameFinder es una plataforma que permite a los usuarios buscar juegos y obtener 
 
 Crear la app en React
 
-Users should be able to:
-
 Los usuarios deberían poder:
 
 - Usar el carrusel
